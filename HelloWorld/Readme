@@ -1,4 +1,4 @@
-🧾 Hello World – Basics of Output in C++ 
+ Hello World – Basics of Output in C++ 
 
 This lesson introduces the fundamental concept of printing output to the console using `std::cout` in C++. It also covers different ways to insert new lines in the output.
 
